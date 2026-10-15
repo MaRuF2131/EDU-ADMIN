@@ -192,7 +192,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Classroom Features",
-        href: "/admin/classroom/features",
+        href: "/admin/classroom",
         notes: ["🎥 Teacher Content Mgmt", "🔐 Access & Visibility", "👨‍🎓 Student Learning Access", "📊 Progress Tracking", "📝 Assignment & Quiz", "💬 Discussion & Q/A", "🤖 AI Learning Assistant", "📚 Learning Hub Analytics"]
       }
     ]
@@ -205,7 +205,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Library Features",
-        href: "/admin/library/features",
+        href: "/admin/library",
         notes: ["Book", "E-book", "Borrow", "Return", "Fine", "QR", "RFID", "Digital Repository"]
       }
     ]
