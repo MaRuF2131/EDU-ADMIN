@@ -218,7 +218,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Finance Features",
-        href: "/admin/finance/features",
+        href: "/admin/finance",
         notes: ["Tuition Fee", "Semester Fee", "Transport", "Hostel", "Fine", "Scholarship", "Discount", "Refund", "Invoice", "Receipt", "Payment Gateway"]
       }
     ]
@@ -231,7 +231,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Scholarship Features",
-        href: "/admin/scholarship/features",
+        href: "/admin/scholarship",
         notes: ["Merit Scholarship", "Need Based", "Government", "NGO", "Sponsor", "Approval Workflow"]
       }
     ]
