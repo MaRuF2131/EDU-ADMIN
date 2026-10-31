@@ -244,7 +244,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Application Features",
-        href: "/admin/application/features",
+        href: "/admin/application",
         notes: ["Leave", "Transcript", "Certificate", "ID Card", "Hostel", "Scholarship", "Objection", "Approval"]
       }
     ]
