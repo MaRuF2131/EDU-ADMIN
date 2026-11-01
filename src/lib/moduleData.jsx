@@ -257,7 +257,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Objection Features",
-        href: "/admin/objection/features",
+        href: "/admin/objection",
         notes: ["Result Challenge", "Attendance Challenge", "Payment Issue", "Complaint", "Appeal", "Resolution", "(New) Auto-generated notices from AI Voice Call"]
       }
     ]
