@@ -270,7 +270,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Voting Features",
-        href: "/admin/voting/features",
+        href: "/admin/voting",
         notes: ["Student Election", "Teacher Election", "Survey", "Referendum", "Anonymous Vote", "Result Analytics"]
       }
     ]
@@ -296,7 +296,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "HR Features",
-        href: "/admin/hr/features",
+        href: "/admin/hr",
         notes: ["Employee", "Payroll", "Leave", "Attendance", "Promotion", "Recruitment", "Performance"]
       }
     ]
@@ -309,7 +309,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Hostel Features",
-        href: "/admin/hostel/features",
+        href: "/admin/hostel",
         notes: ["Room", "Seat", "Allocation", "Meal", "Visitor", "Fee"]
       }
     ]
@@ -322,7 +322,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Transport Features",
-        href: "/admin/transport/features",
+        href: "/admin/transport",
         notes: ["Bus", "Route", "Driver", "GPS", "Tracking", "Student Pass"]
       }
     ]
@@ -335,7 +335,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Inventory Features",
-        href: "/admin/inventory/features",
+        href: "/admin/inventory",
         notes: ["Computer", "Lab Equipment", "Furniture", "Stationery", "Asset Tracking", "Barcode"]
       }
     ]
@@ -348,7 +348,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Notice Features",
-        href: "/admin/notice/features",
+        href: "/admin/notice",
         notes: ["Notice", "Announcement", "Popup", "SMS", "Email", "Push Notification"]
       }
     ]
@@ -361,7 +361,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Certificate Features",
-        href: "/admin/certificate/features",
+        href: "/admin/certificate",
         notes: ["Certificate Template", "Digital Signature", "QR Verification", "Online Verification"]
       }
     ]
