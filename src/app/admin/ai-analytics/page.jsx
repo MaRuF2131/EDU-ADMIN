@@ -1,6 +1,6 @@
 
 import Link from "next/link";
-
+import RunAnalysisButton from "@/app/admin/ai-analytics/_components/RunAnalysisButton.jsx";
 const analyticsFeatures = [
   {
     title: "Grade Prediction",
@@ -125,14 +125,7 @@ export default function AIAnalyticsDashboard() {
           </p>
         </div>
 
-        <button
-          onClick={() =>
-            alert("AI model execution will be connected with the backend.")
-          }
-          className="rounded-lg bg-blue-600 px-4 py-2.5 text-sm font-medium text-white hover:bg-blue-700"
-        >
-          + Run AI Analysis
-        </button>
+        <RunAnalysisButton />
       </div>
 
       {/* Statistics */}
