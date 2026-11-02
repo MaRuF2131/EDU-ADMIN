@@ -387,7 +387,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "AI Analytics Features",
-        href: "/admin/ai-analytics/features",
+        href: "/admin/ai-analytics",
         notes: ["Grade Prediction", "Risk Score", "Dropout Prediction", "Attendance Prediction", "Learning Gap", "Teacher Analytics", "Department Analytics", "University Analytics", "Recommendation", "Natural Language Query"]
       }
     ]
@@ -400,7 +400,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Report Features",
-        href: "/admin/reports/features",
+        href: "/admin/reports",
         notes: ["Student Report", "Teacher Report", "Department Report", "Finance Report", "Attendance Report", "Admission Report", "Custom Report Builder", "Excel", "PDF", "CSV", "Power BI Integration"]
       }
     ]
@@ -413,7 +413,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Notification Features",
-        href: "/admin/notification/features",
+        href: "/admin/notification",
         notes: ["SMS", "Email", "WhatsApp", "Push Notification", "Telegram", "Scheduled Notification", "AI Alert", "(New) Voice Call Routing Alert"]
       }
     ]
