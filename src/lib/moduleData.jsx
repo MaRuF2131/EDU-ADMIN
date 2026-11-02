@@ -426,7 +426,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "API Features",
-        href: "/admin/api/features",
+        href: "/admin/api",
         notes: ["REST API", "GraphQL", "Webhook", "ERP Integration", "Payment Gateway", "SMS Gateway", "Google Workspace", "Microsoft 365", "(New) Voice Gateway Integration (Twilio/Vonage)"]
       }
     ]
@@ -439,7 +439,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Security Features",
-        href: "/admin/security/features",
+        href: "/admin/security",
         notes: ["2FA", "Login History", "Device Tracking", "Audit Log", "IP Restriction", "Encryption", "Backup", "Recovery"]
       }
     ]
@@ -452,7 +452,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Monitoring Features",
-        href: "/admin/monitoring/features",
+        href: "/admin/monitoring",
         notes: ["Server Health", "Database Health", "Queue", "Cron Job", "Storage", "Cache", "API Monitoring", "Error Log"]
       }
     ]
@@ -465,7 +465,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Workflow Features",
-        href: "/admin/workflow/features",
+        href: "/admin/workflow",
         notes: ["Approval Workflow", "Admission Workflow", "Leave Workflow", "Payment Workflow", "Certificate Workflow", "Automation Rules"]
       }
     ]
@@ -478,7 +478,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Import/Export Features",
-        href: "/admin/import-export/features",
+        href: "/admin/import-export",
         notes: ["Excel Import", "CSV Import", "Bulk Update", "Bulk Delete", "Bulk Promotion", "Bulk Assignment"]
       }
     ]

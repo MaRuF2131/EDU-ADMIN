@@ -1,0 +1,7 @@
+
+import WorkflowList from "../_components/WorkflowList";
+import { workflowPages } from "../_components/workflowData";
+
+export default function PaymentWorkflowPage() {
+  return <WorkflowList config={workflowPages.payment} />;
+}
