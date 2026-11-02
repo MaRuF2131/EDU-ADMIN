@@ -498,7 +498,7 @@ export const sidebarModules = [
   },
   {
     id: 32,
-    title: "32. AI Voice Call Assistant",
+    title: "32. AI Voice Call & Message Assistant",
     isMainModule: true,
     icon: "📞",
     subMenus: [
