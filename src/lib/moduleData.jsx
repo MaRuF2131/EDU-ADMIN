@@ -374,7 +374,7 @@ export const sidebarModules = [
     subMenus: [
       {
         title: "Document Features",
-        href: "/admin/document/features",
+        href: "/admin/document",
         notes: ["Student Document", "Teacher Document", "Department File", "Version Control", "Digital Archive"]
       }
     ]
